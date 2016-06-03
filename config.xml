@@ -3,15 +3,20 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     	= "http://www.w3.org/ns/widgets"
         xmlns:gap 	= "http://phonegap.com/ns/1.0"
-        id        	= "com.rickmitchell.inapp"
+        id        	= "com.rickmitchell.camera"
 		versionCode = "1"
         version   	= "1.0.0">
-        
-    <name>InAppBrowser</name>
-    <description>Demo of the Phonegap InAppBrowser API</description>
+
+    <name>Camera Capture</name>
+
+    <description>
+       Demo on the PhoneGap Camera API
+    </description>
+
     <author href="http:www.ricskphp.com/mobile" email="rmitchell@framinghame.edu">
         Rick Mitchell
     </author>
+
     <!--
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
